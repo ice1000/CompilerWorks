@@ -12,7 +12,6 @@
 + 华为
     + [招聘信息](http://xinsheng.huawei.com/cn/index.php?app=mobile&mod=forumApp&act=index&type=forum&tid=2795583&istrue=1)
 
-
 # 相关帖子
 
 ## 知乎
