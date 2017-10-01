@@ -5,14 +5,17 @@
 
 # 公司
 
-+ [源伞科技](http://www.sourcebrella.com/)
-    + [招聘信息](http://mp.weixin.qq.com/s/K-uvf8cekgmz2Kv5FBMVkg)
-+ [JetBrains s.r.o.](https://www.jetbrains.com)
-    + [招聘信息](https://www.jetbrains.com/company/jobs/)
-+ 华为
-    + [招聘信息](http://xinsheng.huawei.com/cn/index.php?app=mobile&mod=forumApp&act=index&type=forum&tid=2795583&istrue=1)
-+ [JaneStreet](https://www.janestreet.com)
-    + [招聘信息](https://www.janestreet.com/join-jane-street/open-positions/)
+## [源伞科技](http://www.sourcebrella.com/)
++ [招聘信息](http://mp.weixin.qq.com/s/K-uvf8cekgmz2Kv5FBMVkg)
+
+## [JetBrains s.r.o.](https://www.jetbrains.com)
++ [招聘信息](https://www.jetbrains.com/company/jobs/)
+
+## [JaneStreet](https://www.janestreet.com)
++ [招聘信息](https://www.janestreet.com/join-jane-street/open-positions/)
+
+## 华为
++ [招聘信息](http://xinsheng.huawei.com/cn/index.php?app=mobile&mod=forumApp&act=index&type=forum&tid=2795583&istrue=1)
 
 # 相关帖子
 
