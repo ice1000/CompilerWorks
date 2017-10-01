@@ -11,6 +11,8 @@
     + [招聘信息](https://www.jetbrains.com/company/jobs/)
 + 华为
     + [招聘信息](http://xinsheng.huawei.com/cn/index.php?app=mobile&mod=forumApp&act=index&type=forum&tid=2795583&istrue=1)
++ [JaneStreet](https://www.janestreet.com)
+    + [招聘信息](https://www.janestreet.com/join-jane-street/open-positions/)
 
 # 相关帖子
 
