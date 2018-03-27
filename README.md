@@ -13,7 +13,7 @@
 **华为**|[招聘信息](http://xinsheng.huawei.com/cn/index.php?app=mobile&mod=forumApp&act=index&type=forum&tid=2795583&istrue=1)
 **华为2**|[招聘信息](http://mp.weixin.qq.com/s/F2WKypQwrxPjZzFX-zOFJw)
 [**IBM**](https://www.ibm.com/us-en/)|[招聘信息](https://krb-sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=26059&siteid=5016#keyWordSearch=compiler&locationSearch=)(已使用 compiler 关键字搜索)
-
+[**InsightIO**](https://insight.io)|[招聘信息](https://www.lagou.com/jobs/3106253.html)
 # 相关帖子
 
 ## 知乎
