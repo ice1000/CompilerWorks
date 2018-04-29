@@ -22,3 +22,7 @@
 + [本科生大三去哪里找编译器开发的实习生岗位](http://www.zhihu.com/question/29068959)
 + [在国内从事 C/C++ 编译器的开发有发展前景吗](http://www.zhihu.com/question/36814392)
 + [编译器研究工作的就业前景？国内研究所或是企业的需求好像很小，如何提高自己的竞争力呢](http://www.zhihu.com/question/28273858)
+
+## ITEye
+
++ [不知道哪些公司在招Java虚拟机方面的工作](http://hllvm.group.iteye.com/group/topic/38884)
